@@ -1,14 +1,12 @@
 # 📊 X & Y Bank Dashboard
 
-_Designed using Microsoft Power BI Desktop_
-
-![Dashboard Screenshot](Power%20BI%20design.png)
-
----
-
 ## 🧾 Overview
 
 This Power BI dashboard provides a comprehensive analysis of customer data for **X & Y Bank**, offering insights into customer demographics, financial metrics, and behavioral trends.
+
+_Designed using Microsoft Power BI Desktop_
+
+![Dashboard Screenshot](Power%20BI%20design.png)
 
 Designed for:
 - 🧑‍💼 Bank Executives
